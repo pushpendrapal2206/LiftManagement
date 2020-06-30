@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Build the application
+mvn clean install
+# bring up and run application
+./bin/lift_management
